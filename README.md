@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Martin Kibsgaard
+# 👋 Hey there! I’m Martin Kibsgaard
 
-## About Me
-- 🎓 I’m currently studying **Computer Science (Datamatiker)** in Aarhus, Denmark.
-- 🐕 Former operational dog handler in the Danish Armed Forces with a background in discipline and teamwork.
-- 👩‍👧 Proud father to a 3-year-old daughter who is my biggest motivation.
+## 👨‍💻 About Me
+- I'm a Computer Science student based in Aarhus, Denmark.
+- Previously served as an operational dog handler in the Danish Armed Forces – where I learned the value of discipline, resilience, and teamwork.
+- Proud and devoted father to a 3-year-old girl who inspires everything I do.
 
 ## 👀 Interests
 - 💻 Passionate about **cybersecurity**, **AI development**, and building impactful IT solutions.
@@ -11,14 +11,20 @@
 - 🏂 Aspiring snowboarder eager to hit the slopes someday.
 
 ## 🌱 I’m Currently Learning
-- 📚 Advanced programming concepts, particularly in Java.
-- 🔍 Exploring test-driven development (TDD) to enhance my software quality.
+- Deepening my understanding of object-oriented design and design patterns in Java.
+- Practicing test-driven development (TDD) and learning how to write clean, maintainable tests.
 
-## 💞️ Collaboration
-- 🤝 I’m looking to collaborate on:
+## 🤝 Collaboration
+- I'm looking to collaborate on:
   - AI-based projects that make a difference.
   - Tools and platforms related to cybersecurity.
   - Open-source software that promotes learning and innovation.
+
+## 🛠 Tech Stack
+- Languages: Java, JavaScript, SQL
+- Frameworks: Spring Boot (learning), Express.js
+- Tools: Git, VS Code, IntelliJ, Postman
+- Databases: MySQL, SQL Server
 
 ## 📫 How to Reach Me
 - 📧 Email: martin_kibsgaard_001@hotmail.com
@@ -27,11 +33,6 @@
 - He/Him
 
 ## ⚡ Fun Fact
-- 🏆 I once won the **Danish Championship in Explosives Detection** with my service dog.
+- 🏆 I won the **Danish Championship in Explosives Detection** with my late service dog – one of my proudest moments.
 
 Thanks for stopping by! Feel free to connect and collaborate. 🚀
-
-<!---
-MartinKibsgaard/MartinKibsgaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
