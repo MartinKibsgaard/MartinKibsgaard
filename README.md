@@ -11,47 +11,46 @@ My biggest motivation is my 3-year-old daughter. She reminds me daily why I stri
 ## 💼 What I Bring to the Table
 
 - 🎯 **Strong work ethic & discipline** – forged through military service and single fatherhood.
-- 🛡️ **Keen interest in cybersecurity** – focused on ethical hacking, secure coding, and risk awareness.
-- 🧠 **Passion for AI** – curious about LLMs, prompt engineering, and practical applications in real-world solutions.
-- ⚙️ **Solid backend mindset** – Java, SQL, data modeling, testing, system thinking.
-- 🧪 **Actively learning Test-Driven Development** – striving to write clean, maintainable and reliable software.
-- 📈 **Team-oriented mindset** – values collaboration, feedback and lifelong learning.
+- 🛡️ **Deep interest in cybersecurity** – focused on secure development, ethical hacking, and risk mitigation.
+- 🤖 **Passion for AI** – exploring large language models, prompt engineering, and real-world applications.
+- ⚙️ **Backend-focused developer** – working with Java, C#, SQL, and object-oriented design.
+- 🧪 **Committed to test-driven development** – learning how to build clean, maintainable, and scalable software.
+- 📈 **Team-oriented mindset** – values trust, clear communication, and lifelong learning.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Java, JavaScript, SQL
-- **Tools & Frameworks**: Git, IntelliJ, VS Code, Spring Boot (learning), Express.js
+- **Languages**: Java, JavaScript, C#, SQL
+- **Frameworks & Platforms**: Spring Boot (learning), .NET, Express.js
+- **Tools**: Git, IntelliJ, Visual Studio, VS Code, Postman, Swagger
 - **Databases**: MySQL, SQL Server
-- **Other**: Postman, Swagger, UML, REST APIs, Prompt Engineering (LLMs)
+- **Other**: REST APIs, UML, Prompt Engineering (LLMs)
 
 ---
 
 ## 🧠 Currently Exploring
 
-- 🔐 Secure development principles & penetration testing
-- 🧪 Advanced Java and OOP design patterns (e.g. Composite, Template Method)
-- 🧰 Building full-stack apps using TDD and clean architecture
-- 🤖 Integrating AI tools with practical use cases (automation, chatbots, analysis)
+- 🔐 Secure coding principles and penetration testing techniques.
+- 🧱 Advanced OOP design patterns like Composite and Template Method.
+- 🧰 Test-driven development and clean architecture in real-world applications.
+- 🤖 Building AI-powered tools that solve practical problems.
 
 ---
 
-## 👨‍👧 Personal Values
+## 👤 Personal Values
 
-- Loyalty, honesty, and presence – especially as a father.
-- I believe real strength lies in showing up, doing det, der skal til, og stå ved det man siger.
-- I don't introduce my daughter to anyone unless I know they are 110% right for her life – I carry that same care into every collaboration I enter.
+I believe true strength lies in showing up, following through, and standing by your word. I'm loyal by nature, detail-focused, and driven by the desire to build things that matter.
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m always open to meaningful conversations, collaboration, internships or junior positions in:
+I’m always open to meaningful conversations, internships, collaborations or junior positions in:
 
 - Cybersecurity 🔐
 - AI & Machine Learning 🤖
-- Software Development with impact 💡
+- Full-stack Software Development 💡
 
 📧 **martin_kibsgaard_001@hotmail.com**
 
