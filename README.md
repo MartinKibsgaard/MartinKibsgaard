@@ -1,57 +1,110 @@
 # 👋 Hi, I’m Martin Kibsgaard
 
-## 👨‍💻 Software Developer in the Making | Cybersecurity Enthusiast | Proud Father
+## Software Developer | Computer Science Graduate | Backend & ERP-Focused
 
-I’m a Computer Science student (Datamatiker) at Erhvervsakademi Aarhus with a unique background as an operational dog handler in the Danish Armed Forces. My life has taught me the value of structure, responsibility, and perseverance – qualities I bring into every line of code I write and every project I touch.
+I’m a Computer Science student (`Datamatiker`) at Erhvervsakademi Aarhus with a strong interest in backend development, ERP systems, clean architecture, automation, and secure software development.
 
-My biggest motivation is my 3-year-old daughter. She reminds me daily why I strive to build a life rooted in stability, integrity, and purpose – both professionally and personally.
+Before entering software development, I worked as an operational dog handler in the Danish Armed Forces. That background gave me a structured mindset, discipline, responsibility, and the ability to stay focused under pressure — qualities I now bring into software projects.
+
+I enjoy building systems that solve real business problems, especially where data, processes, and users need to work together in a clear and reliable way.
 
 ---
 
-## 💼 What I Bring to the Table
+## 💼 What I Bring
 
-- 🎯 **Strong work ethic & discipline** – forged through military service and single fatherhood.
-- 🛡️ **Deep interest in cybersecurity** – focused on secure development, ethical hacking, and risk mitigation.
-- 🤖 **Passion for AI** – exploring large language models, prompt engineering, and real-world applications.
-- ⚙️ **Backend-focused developer** – working with Java, C#, SQL, and object-oriented design.
-- 🧪 **Committed to test-driven development** – learning how to build clean, maintainable, and scalable software.
-- 📈 **Team-oriented mindset** – values trust, clear communication, and lifelong learning.
+- **Structured problem-solving** from both military experience and software development.
+- **Backend-focused development** with experience in Java, C#, SQL, REST APIs, and system design.
+- **Business process understanding** from working with automation, ERP-related systems, and real-world data flows.
+- **Clean architecture mindset** with focus on separation of concerns, maintainability, and testability.
+- **Interest in cybersecurity** with focus on secure coding, risk awareness, and responsible system design.
+- **Strong learning mindset** and motivation to keep improving as a developer.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: Java, JavaScript, C#, SQL
-- **Frameworks & Platforms**: Spring Boot (learning), .NET, Express.js
-- **Tools**: Git, IntelliJ, Visual Studio, VS Code, Postman, Swagger
-- **Databases**: MySQL, SQL Server
-- **Other**: REST APIs, UML, Prompt Engineering (LLMs)
+### Languages
+- Java
+- C#
+- JavaScript
+- SQL
+
+### Backend & Frameworks
+- ASP.NET Core Web API
+- .NET
+- Entity Framework Core
+- Spring Boot
+- Express.js
+
+### Databases
+- SQL Server
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Swagger / OpenAPI
+
+### Concepts & Methods
+- REST APIs
+- Clean Architecture
+- Object-Oriented Programming
+- UML
+- Entity Relationship Modeling
+- Test-Driven Development
+- Prompt Engineering
+- Power Automate / Power Apps
 
 ---
 
-## 🧠 Currently Exploring
+## 🚀 Current Focus
 
-- 🔐 Secure coding principles and penetration testing techniques.
-- 🧱 Advanced OOP design patterns like Composite and Template Method.
-- 🧰 Test-driven development and clean architecture in real-world applications.
-- 🤖 Building AI-powered tools that solve practical problems.
+I’m currently focused on improving my skills within:
 
----
-
-## 👤 Personal Values
-
-I believe true strength lies in showing up, following through, and standing by your word. I'm loyal by nature, detail-focused, and driven by the desire to build things that matter.
+- Backend development with ASP.NET Core and C#
+- Clean Architecture and layered application design
+- SQL Server and Entity Framework Core
+- ERP-related systems and business process automation
+- Secure software development
+- Practical use of AI tools in software development
 
 ---
 
-## 📬 Let’s Connect
+## 🧩 Project Areas
 
-I’m always open to meaningful conversations, internships, collaborations or junior positions in:
+Some of the areas I work with or have experience in:
 
-- Cybersecurity 🔐
-- AI & Machine Learning 🤖
-- Full-stack Software Development 💡
+- Business systems and ERP-related workflows
+- Bonus and calculation systems based on invoice data
+- REST API design and backend architecture
+- Power Automate workflows and Power Apps
+- Database design and data modeling
+- Internal tools that reduce manual work and improve process reliability
+
+---
+
+## 🧠 Developer Mindset
+
+I care about writing software that is:
+
+- Understandable
+- Maintainable
+- Testable
+- Secure
+- Useful for the people who actually use it
+
+I value clear communication, responsibility, and building solutions that solve real problems instead of adding unnecessary complexity.
+
+---
+
+## 📬 Contact
+
+I’m open to professional connections, collaboration, and junior software development opportunities.
 
 📧 **martin_kibsgaard_001@hotmail.com**
 
-Thanks for stopping by. If you see potential in me, I’d love to hear from you 🚀
+Thanks for visiting my profile.
