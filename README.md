@@ -4,7 +4,7 @@
 
 I’m a Computer Science student (`Datamatiker`) at Erhvervsakademi Aarhus with a strong interest in backend development, ERP systems, clean architecture, automation, and secure software development.
 
-Before entering software development, I worked as an operational dog handler in the Danish Armed Forces. That background gave me a structured mindset, discipline, responsibility, and the ability to stay focused under pressure — qualities I now bring into software projects.
+Before entering software development, I worked as an operational dog handler in the Danish Armed Forces. That background gave me a structured mindset, discipline, responsibility, and the ability to stay focused under pressure, qualities I now bring into software projects.
 
 I enjoy building systems that solve real business problems, especially where data, processes, and users need to work together in a clear and reliable way.
 
